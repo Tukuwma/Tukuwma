@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tukuwma
-- 👀 I’m interested in Defi LP Pools
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on LP data analysis and strategy optimalisation
+- 👀 I’m interested in AI, trading systems, mycology.
+- 🌱 I’m currently learning to work effectively with AI agents.(Manus, Claude, standalone versions of Gemma, Gwen, and so on.)
+- 💞️ I’m looking to collaborate on AI data analysis and strategy optimalisation.
 - 📫 How to reach me https://discord.gg/jehJpwVr
 
 <!---
