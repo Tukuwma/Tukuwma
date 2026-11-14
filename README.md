@@ -20,7 +20,7 @@ with its own real-time dashboard: **[kontar.link](https://kontar.link)**
 HBSc in Investment Operations and Compliance (First Class Honours), Griffith College Dublin ·
 BSc Certificate in Financial Services, Dublin Business School
 
-### 📡 Follow the project
+### 📡 Follow the project https://linktr.ee/KONTAR
 [kontar.link](https://kontar.link) · Instagram [@kontar_trading](https://instagram.com/kontar_trading) ·
 YouTube [@KONTAR_trading](https://youtube.com/@KONTAR_trading)
 
