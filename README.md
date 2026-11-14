@@ -21,7 +21,7 @@ HBSc in Investment Operations and Compliance (First Class Honours), Griffith Col
 BSc Certificate in Financial Services, Dublin Business School
 
 ### 📡 Follow the project https://linktr.ee/KONTAR
-[kontar.link](https://kontar.link) · Instagram [@kontar_trading](https://instagram.com/kontar_trading) ·
-YouTube [@KONTAR_trading](https://youtube.com/@KONTAR_trading)
+
+
 
 <sub>Nothing here is financial advice. The robots' code and settings are private.</sub>
